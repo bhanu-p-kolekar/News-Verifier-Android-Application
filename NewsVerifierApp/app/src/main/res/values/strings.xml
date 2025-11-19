@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Verifier</string>
+    <string name="title">News Verification AI</string>
+    <string name="subtitle">Enter news text or URL to verify</string>
+    <string name="content_hint">News content or URL</string>
+    <string name="btn_verify">Verify News</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_verifying">Verifying...</string>
+    <string name="api_checking">API: Checking...</string>
+    <string name="api_connected">API: Connected ✓</string>
+    <string name="api_disconnected">API: Disconnected ✗</string>
+    <string name="results_title">Verification Results</string>
+    <string name="confidence_label">Confidence: %d%%</string>
+    <string name="summary_label">Summary</string>
+    <string name="evidence_label">Evidence Sources</string>
+    <string name="source_label">Source %d</string>
+    <string name="error_empty">Please enter content to verify</string>
+    <string name="error_short">Content is too short (minimum 10 characters)</string>
+    <string name="error_link">Could not open link</string>
+</resources>

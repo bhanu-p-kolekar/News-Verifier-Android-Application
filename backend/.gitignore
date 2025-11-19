@@ -1,0 +1,17 @@
+# Add to .gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.env
+.venv
+*.log
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

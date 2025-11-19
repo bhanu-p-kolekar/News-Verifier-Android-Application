@@ -1,0 +1,31 @@
+# Android Studio / Gradle
+*.iml
+.gradle/
+.local/
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+app/build/
+
+# Java
+*.class
+
+# Python backend (avoid junk files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node / React Native (if any part uses JS)
+node_modules/
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+
+# OS files
+Thumbs.db
